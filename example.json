@@ -1,0 +1,10 @@
+[
+  {"question": "What is the capital of France?", "response": "The capital of France is Paris.", "label": 0},
+  {"question": "What is the capital of France?", "response": "The capital of France is Berlin.", "label": 1},
+  {"question": "Which planet is known as the Red Planet?", "response": "Mars is known as the Red Planet.", "label": 0},
+  {"question": "Which planet is known as the Red Planet?", "response": "Venus is known as the Red Planet.", "label": 1},
+  {"question": "How many days are there in a standard week?", "response": "There are seven days in a standard week.", "label": 0},
+  {"question": "How many days are there in a standard week?", "response": "There are nine days in a standard week.", "label": 1},
+  {"question": "At standard atmospheric pressure, what is the boiling point of water?", "response": "Water boils at 100 degrees Celsius.", "label": 0},
+  {"question": "At standard atmospheric pressure, what is the boiling point of water?", "response": "Water boils at 50 degrees Celsius.", "label": 1}
+]
